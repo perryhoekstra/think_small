@@ -1,0 +1,3 @@
+rootProject.name = 'think_small'
+
+include ':app'
